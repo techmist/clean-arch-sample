@@ -1,0 +1,12 @@
+/home/techmista/Workspaces/Pessoal/clean-arch-sample/src/Domain/bin/Debug/net7.0/Domain.deps.json
+/home/techmista/Workspaces/Pessoal/clean-arch-sample/src/Domain/bin/Debug/net7.0/Domain.dll
+/home/techmista/Workspaces/Pessoal/clean-arch-sample/src/Domain/bin/Debug/net7.0/Domain.pdb
+/home/techmista/Workspaces/Pessoal/clean-arch-sample/src/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/home/techmista/Workspaces/Pessoal/clean-arch-sample/src/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/techmista/Workspaces/Pessoal/clean-arch-sample/src/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/home/techmista/Workspaces/Pessoal/clean-arch-sample/src/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/home/techmista/Workspaces/Pessoal/clean-arch-sample/src/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/home/techmista/Workspaces/Pessoal/clean-arch-sample/src/Domain/obj/Debug/net7.0/Domain.dll
+/home/techmista/Workspaces/Pessoal/clean-arch-sample/src/Domain/obj/Debug/net7.0/refint/Domain.dll
+/home/techmista/Workspaces/Pessoal/clean-arch-sample/src/Domain/obj/Debug/net7.0/Domain.pdb
+/home/techmista/Workspaces/Pessoal/clean-arch-sample/src/Domain/obj/Debug/net7.0/ref/Domain.dll

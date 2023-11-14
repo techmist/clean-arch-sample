@@ -5,9 +5,9 @@ var repository = new ToDoRepository();
 var usecases = new ToDoUsecases(repository);
 
 // Exemplo de uso
-var task1 = usecases.CreateTask("Criar um exemplo prático de Clean Architecture");
-var task2 = usecases.CreateTask("Implementar casos de uso");
-usecases.MarkTaskAsCompleted(task1.Id);
+var taskA = usecases.CreateTask("Criar um exemplo prático de Clean Architecture");
+var taskB = usecases.CreateTask("Implementar casos de uso");
+usecases.MarkTaskAsCompleted(taskA.Id);
 
 Console.WriteLine("Tarefas:");
 foreach (var task in usecases.GetAllTasks())
